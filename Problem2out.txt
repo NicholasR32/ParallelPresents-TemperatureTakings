@@ -1,0 +1,20 @@
+----Hour 0----
+Largest temperature difference: 170°F, from minute 33 to 42
+5 lowest temperatures recorded: -100 -100 -99 -99 -99
+5 highest temperatures recorded: 70 70 70 69 69
+----Hour 1----
+Largest temperature difference: 170°F, from minute 11 to 20
+5 lowest temperatures recorded: -100 -100 -100 -100 -100
+5 highest temperatures recorded: 70 70 70 70 68
+----Hour 2----
+Largest temperature difference: 169°F, from minute 24 to 33
+5 lowest temperatures recorded: -100 -99 -99 -99 -98
+5 highest temperatures recorded: 70 70 70 70 70
+----Hour 3----
+Largest temperature difference: 170°F, from minute 5 to 14
+5 lowest temperatures recorded: -100 -100 -99 -99 -97
+5 highest temperatures recorded: 70 68 67 66 65
+----Hour 4----
+Largest temperature difference: 168°F, from minute 19 to 28
+5 lowest temperatures recorded: -100 -100 -100 -99 -99
+5 highest temperatures recorded: 70 68 68 68 68
