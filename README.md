@@ -1,5 +1,5 @@
 # Instructions
-1. Clone the repo with `git pull https://github.com/NicholasR32/MinotaurMindgames`.
+1. Clone the repo with `git pull https://github.com/NicholasR32/MinotaurMindgames`. 
     - Alternatively, simply download `Problem1.java` and `Problem2.java`.
 2. Run each program with `java Problem1.java`, etc.
 3. Results should appear in your terminal.
